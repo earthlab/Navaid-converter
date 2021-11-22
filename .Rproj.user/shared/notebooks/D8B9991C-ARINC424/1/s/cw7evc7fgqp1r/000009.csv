@@ -1,0 +1,6 @@
+"0","vor <- read.csv(""navaids.csv"")"
+"0","class(vor)"
+"1","[1]"
+"1"," ""data.frame"""
+"1","
+"
